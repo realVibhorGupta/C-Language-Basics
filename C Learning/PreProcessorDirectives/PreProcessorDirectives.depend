@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1458384866 source:c:\users\vibhor\desktop\c learning\preprocessordirectives\main.c
+	<stdio.h>
+	<stdlib.h>
+	"macro.c"
+
+1457948106 source:c:\users\vibhor\desktop\c learning\preprocessordirectives\macro.c
+
+1457948106 c:\users\vibhor\desktop\c learning\preprocessordirectives\macro.c
+

@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void main()
+{
+    int a[5];
+    a[0]=21;
+    a[1]=22;
+    a[2]=32;
+    a[3]=34;
+
+    printf(a);
+
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457554688 source:c:\users\vibhor\desktop\c learning\modifiedbubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

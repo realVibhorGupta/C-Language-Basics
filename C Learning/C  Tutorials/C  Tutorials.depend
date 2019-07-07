@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457422333 source:c:\users\vibhor\desktop\c learning\c  tutorials\main.c
+	<stdio.h>
+	<stdlib.h>
+

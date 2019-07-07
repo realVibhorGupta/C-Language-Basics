@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct STUDENT{
+
+    int rollno;
+    char name[20];
+    int age;
+
+
+};
+
+
+
+int main()
+{
+
+    ST
+    
+    s1.rollno=20;
+
+
+    printf("Hello world!\n");
+    return 0;
+}
